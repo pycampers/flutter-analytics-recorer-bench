@@ -8,7 +8,7 @@ It aims to compare 2 different ways of recording data in plugins.
 2. Record random data in Kotlin, transport it to dart, every `recordWriteDuration`.
     Then read it from Dart every `recordReadDuration`, and show it on the screen.
 
-The results are available in the [results]( folder, along with the environment config they were run in.
+The results are available in the [results](results) folder, along with the environment config they were run in.
 
 ---
 
